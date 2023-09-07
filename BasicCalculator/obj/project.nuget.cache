@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQIs9A9ogbKYqxLkAYAj9d8wWAauVKlUNosUMt0A6y5yWv3XKhP3Xk1x5JZ/ieF9Z0DfGNSqIic45D6emejKvw==",
+  "success": true,
+  "projectFilePath": "/home/Ame/Code/C#/BasicCalculator/BasicCalculator/BasicCalculator.csproj",
+  "expectedPackageFiles": [
+    "/home/Ame/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

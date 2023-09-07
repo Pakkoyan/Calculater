@@ -1,0 +1,15 @@
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.deps.json
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.runtimeconfig.json
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.dll
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.pdb
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.csproj.AssemblyReference.cache
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.AssemblyInfoInputs.cache
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.AssemblyInfo.cs
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.csproj.CoreCompileInputs.cache
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.dll
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/refint/BasicCalculator.dll
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.pdb
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.genruntimeconfig.cache
+/home/Ame/Code/C#/BasicCalculator/BasicCalculator/obj/Debug/net7.0/ref/BasicCalculator.dll
